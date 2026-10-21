@@ -1,22 +1,10 @@
 ## Hi there 👋
 
-I'm Nafija, a cybersecurity enthusiast based in the UK. 
+📫 I'm Nafija, a cybersecurity enthusiast based in the UK. 
 
-In my free time, I like to work on different projects that make me a 
+🌱 In my free time, I like to work on different projects that make me a 
 
-Fun facts: 
+💬 Certifications: Security+, ISC2 CC, Google Cybersecurity
+
+👯 Fun facts: 
 I have an orange cat who is the bane of my existence.
-
-<!--
-**NafijaMiah/NafijaMiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
