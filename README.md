@@ -1,10 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Nafija
 
-📫 I'm Nafija, a cybersecurity enthusiast based in the UK. 
+I’m a final-year Computer Science student at City St George’s, University of London, focused on cyber security. I’m especially interested in how organisations manage risk, from detecting attacks to the policies and controls that prevent them.
 
-🌱 In my free time, I like to work on different projects that make me a 
-
-💬 Certifications: Security+, ISC2 CC, Google Cybersecurity
-
-👯 Fun facts: 
-I have an orange cat who is the bane of my existence.
+🔐 Certifications: CompTIA Security+, ISC2 Certified in Cybersecurity, Google Cybersecurity Professional Certificate.
+🧪 Currently building: a home lab where I exploit vulnerable machines with Kali and detect the attacks with Wazuh.
+📋 Interested in: GRC, security operations, and IT support as a route into cyber.
+📫 Contact: nafijamiah1@gmail.com.
