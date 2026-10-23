@@ -1,6 +1,6 @@
-👋 Hi, I’m Nafija
+👋 Hello there!
 
-I’m a final-year Computer Science student at City St George’s, University of London, focused on cyber security. I’m especially interested in how organisations manage risk, from detecting attacks to the policies and controls that prevent them.
+I’m Nafija, a final-year Computer Science student at City St George’s, University of London, focused on cyber security. I’m especially interested in how organisations manage risk, from detecting attacks to the policies and controls that prevent them.
 
 🔐 Certifications: CompTIA Security+, ISC2 Certified in Cybersecurity, Google Cybersecurity Professional Certificate.
 
